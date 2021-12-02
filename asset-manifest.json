@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modal-app/static/css/main.1476e653.chunk.css",
+    "main.js": "/modal-app/static/js/main.684deb2e.chunk.js",
+    "main.js.map": "/modal-app/static/js/main.684deb2e.chunk.js.map",
+    "runtime-main.js": "/modal-app/static/js/runtime-main.ea84b63c.js",
+    "runtime-main.js.map": "/modal-app/static/js/runtime-main.ea84b63c.js.map",
+    "static/js/2.325c7c0d.chunk.js": "/modal-app/static/js/2.325c7c0d.chunk.js",
+    "static/js/2.325c7c0d.chunk.js.map": "/modal-app/static/js/2.325c7c0d.chunk.js.map",
+    "static/js/3.cc00778b.chunk.js": "/modal-app/static/js/3.cc00778b.chunk.js",
+    "static/js/3.cc00778b.chunk.js.map": "/modal-app/static/js/3.cc00778b.chunk.js.map",
+    "index.html": "/modal-app/index.html",
+    "static/css/main.1476e653.chunk.css.map": "/modal-app/static/css/main.1476e653.chunk.css.map",
+    "static/js/2.325c7c0d.chunk.js.LICENSE.txt": "/modal-app/static/js/2.325c7c0d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/modal-app/static/media/LabGrotesque-Regular.6e75ff9a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea84b63c.js",
+    "static/js/2.325c7c0d.chunk.js",
+    "static/css/main.1476e653.chunk.css",
+    "static/js/main.684deb2e.chunk.js"
+  ]
+}
